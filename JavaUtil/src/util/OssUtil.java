@@ -16,11 +16,11 @@ import java.io.OutputStream;
 public class OssUtil{
 
     private static final Logger LOG = LoggerFactory.getLogger(OssUtil.class);
-    private static final String accessKeyId = "LTAI1uctydtmEAjN"; // 阿里云账号生成的key
-    private static final String accessKeySecret = "rPN0KbOJQaBLnEAgXEPgjp89csQRuU"; // 阿里云账号生成的secret
-    private static final String endpoint = "http://oss-cn-beijing.aliyuncs.com";
+    private static final String accessKeyId = ""; // 阿里云账号生成的key
+    private static final String accessKeySecret = ""; // 阿里云账号生成的secret
+    private static final String endpoint = "";
     private static final String HTTP = "http://";
-    private static final String POINT=".oss-cn-beijing.aliyuncs.com";
+    private static final String POINT="";
     private static final String SEPARATOR = "/";
     /**
      * 获得url链接
